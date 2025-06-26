@@ -56,9 +56,7 @@ Who are the top 10 genre on Prime?
 
 
 ![amazon prime dashboard](https://github.com/user-attachments/assets/6b750113-73fd-4fd5-b735-1392fec88818)
-![amazon prime dashboard](https://github.com/user-attachments/assets/6b750113-73fd-4fd5-b735-1392fec88818)
-![amazon prime dashboard](https://github.com/user-attachments/assets/ab4766d9-a983-47db-8ff1-08dc1e211b6a)
-![amazon prime dashboard](https://github.com/user-attachments/assets/ab4766d9-a983-47db-8ff1-08dc1e211b6a)
+
 
  Key Features of the Dashboard:
  
